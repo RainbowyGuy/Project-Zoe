@@ -1,0 +1,20 @@
+.MainHeader {
+    font-size: 64px;
+    font-weight: bold;
+    color: #f0f0f0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+body {
+    background-image: url("Background.gif");
+    background-repeat: repeat;
+    image-rendering: pixelated;
+    background-size: 256px 256px;
+    font-family: "Pixel Emulator", monospace;
+}
+
+@font-face {
+    font-family: "Pixel Emulator";
+    src: url("fonts/Pixel Emulator.otf");
+}
