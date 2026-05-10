@@ -7,7 +7,7 @@ body {
     background-image: url("Background.gif");
     background-repeat: repeat;
     image-rendering: pixelated;
-    background-size: 256px 256px;
+    background-size: 384px 384px;
     font-family: "Pixel Emulator", monospace;
 }
 
